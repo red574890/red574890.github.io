@@ -5,12 +5,12 @@ body{
   padding: 50px;
   display: flex;
   justify-content: center;
-  background-color: #02005B;
+  background-color: #00535b;
   color: rgba(255,255,255,0.95);
   font-size: 15px;
   line-height: 28px;
   letter-spacing: 1px;
-  font-family: "微軟正黑體",sans-serif;
+  font-family:  "Times New Roman",sans-serif;
 }
 
 /* 複寫區 */
